@@ -2,8 +2,8 @@
 ![](http://r52.cooltext.com/rendered/cooltext283370445512998.png)
 ## Misión 
  
-> Ser la mejor empresa de distribución de información sobre temas relacionados con la robótica, ofreciendo notas de calidad, con contenido objetivo y claro de la información, así como breves conceptos y explicaciones relacionados a la robótica.
+> Ser la mejor empresa de distribución de información sobre temas relacionados con la robótica, ofreciendo notas de calidad, con contenido objetivo y claro de la información, así como breves conceptos y explicaciones relacionados a la robótica
 
 ## Visión 
 
-> Tener un estándar de tiempo y calidad relativos a nustras noticias, mostrando hechos objtetivos y tranparentes, siendo siempre los primeros en ofrecerle ésta información.
+> Tener un estándar de tiempo y calidad relativos a nustras noticias, mostrando hechos objtetivos y tranparentes, siendo siempre los primeros en ofrecerle ésta información
