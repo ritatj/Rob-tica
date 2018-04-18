@@ -7,7 +7,7 @@
 Ésta página está destinada a la distibución de información relativa a la _robótica_, ofreciendo una sección breve de noticias y conceptos de interés para los usuarios que visitan nuestra página.
  
  
- Gracias por ser parte de ésta comunidad. 
+ Gracias por ser parte de ésta comunidad
  
  ![](http://3.bp.blogspot.com/-Hr8ZjD4ThOc/UtaIdyfgFII/AAAAAAAAB-0/x3fkfv7WbU8/w1200-h630-p-k-no-nu/smile.jpg)
  
